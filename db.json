@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "caption": "Sajni",
+      "imageUrl": "https://i.ytimg.com/vi/k3g_WjLCsXM/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/Zv3sLFPPGRQ",
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "Caption": "Sajni",
+      "url": "https://www.youtube.com/embed/Zv3sLFPPGRQ",
+      "time": "15/10/2024, 10:39:44",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "mal",
+      "allvideos": [
+        {
+          "caption": "Sajni",
+          "imageUrl": "https://i.ytimg.com/vi/k3g_WjLCsXM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/Zv3sLFPPGRQ",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "hind",
+      "allvideos": [
+        {
+          "caption": "Sajni",
+          "imageUrl": "https://i.ytimg.com/vi/k3g_WjLCsXM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/Zv3sLFPPGRQ",
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
